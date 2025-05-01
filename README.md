@@ -204,40 +204,8 @@ Database      ███████████░░░░░░░░░░░
 
 <hr>
 
-## 🔐 WebAuthn Authentication System
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/webauthn-demo.gif" width="800">
-</div>
 
-> *Next-generation passwordless authentication using biometrics and hardware security keys*
-
-### 🔗 Quick Links
-<p align="center">
-  <a href="https://github.com/DIX2580/webauthn-s1-release">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-### ✨ Features
-
-- 👆 **Biometric Login** - Fingerprint and face recognition authentication
-- 🔑 **Hardware Security Keys** - Support for YubiKey and other FIDO2 devices
-- ⚡ **Zero-Knowledge Architecture** - No biometric data stored on servers
-- 🛡️ **FIDO2 Compliance** - Following the latest WebAuthn standards
-- 🧪 **Cross-Browser Support** - Works across all major modern browsers
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![WebAuthn](https://img.shields.io/badge/WebAuthn-3DDC84?style=for-the-badge&logo=webauthn&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-  
-</div>
 
 ## 📊 GitHub Stats
 
