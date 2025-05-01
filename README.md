@@ -26,10 +26,12 @@
 
 <div align="center">
   <h2>🚀 Transforming Ideas Into Reality</h2>
-  <img src="https://github.com/DIX2580/DIX2580/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-## 🛠️ My Expertise
+<h1 align="center">🛠️ My Expertise</h1>
+
+<div align="center">
 
 ```text
 Frontend      ████████████████████░░   90% 
@@ -38,6 +40,8 @@ Database      ██████████████████░░░░
 UI/UX         █████████████████░░░░░   75%
 DevOps        ████████████░░░░░░░░░░   60%
 ```
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -72,6 +76,7 @@ DevOps        ████████████░░░░░░░░░░
 </p>
 
 </div>
+
 ## 🌟 Featured Projects
 
 ### 🎓 Career Path Guideline System  
@@ -121,7 +126,6 @@ An advanced biometric authentication system using fingerprint login via WebAuthn
 `Node.js` · `Express.js` · `MongoDB` · `WebAuthn` · `@simplewebauthn/server` · `JWT` · `Bcrypt.js`
 
 ---
-
 
 ## 🔍 About My Work
 
