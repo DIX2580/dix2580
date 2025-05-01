@@ -26,17 +26,10 @@
 
 <div align="center">
   <h2>🚀 Transforming Ideas Into Reality</h2>
-  <!-- Fixed Snake Animation - Using a direct link to the GitHub Actions generated file -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/DIX2580/DIX2580/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<h1 align="center">🛠️ My Expertise</h1>
-
-<div align="center">
+## 🛠️ My Expertise
 
 ```text
 Frontend      ████████████████████░░   90% 
@@ -45,8 +38,6 @@ Database      ██████████████████░░░░
 UI/UX         █████████████████░░░░░   75%
 DevOps        ████████████░░░░░░░░░░   60%
 ```
-
-</div>
 
 ## 💻 Tech Stack
 
@@ -82,110 +73,171 @@ DevOps        ████████████░░░░░░░░░░
 
 </div>
 
-## 🌟 Featured Projects
+# ✨ FEATURED PROJECTS ✨
 
-### 🎓 Career Path Guideline System  
-**🔗 Live Demo:** [career-path-guidelines.onrender.com](https://career-path-guidelines.onrender.com)  
-**📂 GitHub:** [github.com/DIX2580/careerpath-guideline-system](https://github.com/DIX2580/careerpath-guideline-system)  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D1E8&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions;Creating+Beautiful+Experiences;Solving+Real-World+Problems" alt="Project Typing SVG" />
+</div>
 
-A full-stack web application that guides students by suggesting optimal career paths based on their current education level and career goals.  
-🔹 Personalized pathways  
-🔹 Animated dashboards  
-🔹 Curated course suggestions  
-🔹 Live support  
-🔹 Secure authentication & progress tracking  
+## 🎓 Career Path Guideline System
 
-**🛠 Tech Stack:**  
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Framer Motion` · `Redux Toolkit` · `Redux Persist` · `EmailJS` · `Tawk.to` · `Three.js` · `Lottie React` · `React Router` · `JWT` · `Bcrypt.js`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/career-path-demo.gif" width="800">
+</div>
 
----
+> *Guiding students toward their perfect career path with personalized recommendations and interactive visualizations*
 
-### 🎙️ Kunal Podcast Website  
-**🔗 Live Demo:** [kunal-podcast-v2.netlify.app](https://kunal-podcast-v2.netlify.app)  
-**📂 GitHub:** [github.com/DIX2580/kunal-podcast-episode](https://github.com/DIX2580/kunal-podcast-episode)  
+### 🔗 Quick Links
+<p align="center">
+  <a href="https://career-path-guidelines.onrender.com">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DIX2580/careerpath-guideline-system">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-A sleek and modern podcast platform built for Mishka Productions where Kunal posts his latest episodes. Designed with immersive animations and carousel integrations.
+### ✨ Features
 
-**🛠 Tech Stack:**  
-`Next.js` · `Tailwind CSS` · `Framer Motion` · `Heroicons` · `React Owl Carousel` · `React Slick` · `Swiper` · `React Type Animation`
+- 🧭 **Personalized Pathways** - Custom career roadmaps based on education level & goals
+- 📊 **Animated Dashboards** - Interactive visualizations for progress tracking
+- 📚 **Curated Courses** - Tailored course suggestions for skill development
+- 💬 **Live Support** - Real-time assistance via integrated chat system
+- 🔒 **Secure Authentication** - JWT-based user authentication with encrypted data
 
----
+### 🛠️ Tech Stack
 
-### 🛰️ Zenex GIS Website  
-**🔗 Live Demo:** [zenexinfo.com](http://zenexinfo.com)  
-**📂 GitHub:** [github.com/DIX2580/zen-eoo](https://github.com/DIX2580/zen-eoo)  
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+  ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  
+</div>
 
-Developed a comprehensive corporate website for Zenex, a leading GIS company. Integrated advanced GIS tools with responsive UI and modern frontend practices.
+<hr>
 
-**🛠 Tech Stack:**  
-`Next.js` · `React` · `Tailwind CSS` · `Framer Motion` · `Three.js` · `Axios` · `Swiper` · `React Slick` · `React Hook Form` · `React Router` · `Sharp`
+## 🎙️ Kunal Podcast Website
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/podcast-demo.gif" width="800">
+</div>
 
-### 🔐 WebAuthn Authentication System  
-**📂 GitHub:** [github.com/DIX2580/webauthn-s1-release](https://github.com/DIX2580/webauthn-s1-release)  
+> *An immersive audio experience platform with stunning visuals and seamless episode navigation*
 
-An advanced biometric authentication system using fingerprint login via WebAuthn. Built with secure backend handling and modern cryptographic standards.
+### 🔗 Quick Links
+<p align="center">
+  <a href="https://kunal-podcast-v2.netlify.app">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DIX2580/kunal-podcast-episode">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-**🛠 Tech Stack:**  
-`Node.js` · `Express.js` · `MongoDB` · `WebAuthn` · `@simplewebauthn/server` · `JWT` · `Bcrypt.js`
+### ✨ Features
 
----
+- ✨ **Stunning Animations** - Fluid page transitions and micro-interactions
+- 🎧 **Episode Carousel** - Interactive episode browsing experience
+- 📱 **Fully Responsive** - Perfect viewing on any device
+- 🌙 **Dark Mode** - Easy on the eyes viewing experience
+- 🔊 **Audio Visualizer** - Real-time waveform visualization during playback
 
-## 🔍 About My Work
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Career Path Guideline System</h3>
-      <p align="center">
-        <a href="https://careerpath-goals.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/DIX2580/career-path-guide" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-      <p align="center">A full-stack web application guiding students through optimal career paths based on education level and goals. Features personalized pathways, animated dashboards, course suggestions, and live support.</p>
-      <p align="center"><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Framer Motion, Redux Toolkit, JWT, Three.js</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Zenex GIS Company Website</h3>
-      <p align="center">
-        <a href="https://github.com/DIX2580/zenex-gis" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-      <p align="center">Comprehensive website for Zenex, a leading GIS company, integrating advanced mapping tools and APIs with a user-friendly interface to showcase their capabilities.</p>
-      <p align="center"><b>Tech:</b> Next.js, React, Tailwind CSS, Framer Motion, Three.js, Axios, Swiper, React Hook Form</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Kunal Podcast Site</h3>
-      <p align="center">
-        <a href="https://kunal-podcast-v2.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/DIX2580/kunal-podcast" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-      <p align="center">Dynamic platform for Mishka Productions where Kunal posts his latest podcasts. Built with smooth animations for an immersive user experience.</p>
-      <p align="center"><b>Tech:</b> Next.js, Tailwind CSS, Framer Motion, Heroicons, React Owl Carousel, Swiper, React Type Animation</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">WebAuthn Fingerprint Auth</h3>
-      <p align="center">
-        <a href="https://github.com/DIX2580/webauthn-s1-release" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-      <p align="center">Modern authentication system implementing the WebAuthn protocol for passwordless biometric login experiences, enhancing security while simplifying the user experience.</p>
-      <p align="center"><b>Tech:</b> JavaScript, WebAuthn API, Node.js, Express, MongoDB</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![React Slick](https://img.shields.io/badge/React_Slick-FF4154?style=for-the-badge&logo=react&logoColor=white)
+  ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+  ![Type Animation](https://img.shields.io/badge/Type_Animation-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  
+</div>
+
+<hr>
+
+## 🛰️ Zenex GIS Website
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/zenex-demo.gif" width="800">
+</div>
+
+> *A sophisticated corporate platform showcasing cutting-edge GIS technologies with interactive 3D visualizations*
+
+### 🔗 Quick Links
+<p align="center">
+  <a href="http://zenexinfo.com">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DIX2580/zen-eoo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### ✨ Features
+
+- 🌏 **3D Globe Visualization** - Interactive geographic data exploration
+- 🔄 **Dynamic Content** - Smooth content transitions and animations
+- 📊 **Data Visualization** - Complex GIS data presented intuitively
+- 🚀 **Performance Optimized** - Fast loading with next-gen image formats
+- 📱 **Adaptive UI** - Enterprise-grade responsive design
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+  ![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white)
+  
+</div>
+
+<hr>
+
+## 🔐 WebAuthn Authentication System
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/webauthn-demo.gif" width="800">
+</div>
+
+> *Next-generation passwordless authentication using biometrics and hardware security keys*
+
+### 🔗 Quick Links
+<p align="center">
+  <a href="https://github.com/DIX2580/webauthn-s1-release">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### ✨ Features
+
+- 👆 **Biometric Login** - Fingerprint and face recognition authentication
+- 🔑 **Hardware Security Keys** - Support for YubiKey and other FIDO2 devices
+- ⚡ **Zero-Knowledge Architecture** - No biometric data stored on servers
+- 🛡️ **FIDO2 Compliance** - Following the latest WebAuthn standards
+- 🧪 **Cross-Browser Support** - Works across all major modern browsers
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![WebAuthn](https://img.shields.io/badge/WebAuthn-3DDC84?style=for-the-badge&logo=webauthn&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  
+</div>
 
 ## 📊 GitHub Stats
 
@@ -234,4 +286,9 @@ An advanced biometric authentication system using fingerprint login via WebAuthn
   <a href="mailto:dibyanjayapanda2580@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
+</div>
+
+<!-- Animated footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/wave-animation.svg" width="100%">
 </div>
