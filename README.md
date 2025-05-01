@@ -21,11 +21,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DIX2580&style=for-the-badge&color=00D1E8" alt="Profile Views" />
 </div>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIX2580&theme=discord&no-frame=true&column=7" alt="GitHub Profile Trophy" />
+  <h2>🏆 GitHub Achievements 🏆</h2>
+  <div style="padding: 10px; border: 2px solid #6332F6; border-radius: 15px; overflow: hidden; margin: 20px auto; max-width: 90%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github-profile-trophy.vercel.app/?username=DIX2580&theme=discord&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </div>
 </div>
-
-
 ---
 
 <div align="center">
