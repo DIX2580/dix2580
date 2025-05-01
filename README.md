@@ -88,8 +88,8 @@ DevOps        ████████████░░░░░░░░░░
   <a href="https://github.com/DIX2580/webauthn-s1-release">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=webauthn-s1-release&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="WebAuthn Project" />
   </a>
-  <a href="https://github.com/DIX2580/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=portfolio&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Portfolio Project" />
+  <a href="https://github.com/DIX2580/zenex-gis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=zenex-gis&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Zenex GIS Project" />
   </a>
 </div>
 
@@ -107,16 +107,18 @@ DevOps        ████████████░░░░░░░░░░
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
-      <p align="center">An intelligent system designed to help students map their career journey with personalized roadmaps and resources.</p>
+      <p align="center">A full-stack web application guiding students through optimal career paths based on education level and goals. Features personalized pathways, animated dashboards, course suggestions, and live support.</p>
+      <p align="center"><b>Tech:</b> React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Framer Motion, Redux Toolkit, JWT, Three.js</p>
     </td>
     <td width="50%">
-      <h3 align="center">WebAuthn Fingerprint Auth</h3>
+      <h3 align="center">Zenex GIS Company Website</h3>
       <p align="center">
-        <a href="https://github.com/DIX2580/webauthn-s1-release" target="_blank">
+        <a href="https://github.com/DIX2580/zenex-gis" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
-      <p align="center">A modern authentication system using WebAuthn protocol for passwordless biometric login experiences.</p>
+      <p align="center">Comprehensive website for Zenex, a leading GIS company, integrating advanced mapping tools and APIs with a user-friendly interface to showcase their capabilities.</p>
+      <p align="center"><b>Tech:</b> Next.js, React, Tailwind CSS, Framer Motion, Three.js, Axios, Swiper, React Hook Form</p>
     </td>
   </tr>
   <tr>
@@ -126,17 +128,22 @@ DevOps        ████████████░░░░░░░░░░
         <a href="https://kunal-podcast-v2.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
         </a>
-      </p>
-      <p align="center">A feature-rich podcast platform with audio streaming, episode management, and user engagement tools.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio</h3>
-      <p align="center">
-        <a href="https://dibyanjaya-portfolio.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Site-4E8EE9?style=for-the-badge&logo=render&logoColor=white" alt="Live Site" />
+        <a href="https://github.com/DIX2580/kunal-podcast" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
-      <p align="center">My professional showcase featuring projects, skills, and professional journey in web development.</p>
+      <p align="center">Dynamic platform for Mishka Productions where Kunnal posts his latest podcasts. Built with smooth animations for an immersive user experience.</p>
+      <p align="center"><b>Tech:</b> Next.js, Tailwind CSS, Framer Motion, Heroicons, React Owl Carousel, Swiper, React Type Animation</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">WebAuthn Fingerprint Auth</h3>
+      <p align="center">
+        <a href="https://github.com/DIX2580/webauthn-s1-release" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+      <p align="center">Modern authentication system implementing the WebAuthn protocol for passwordless biometric login experiences, enhancing security while simplifying the user experience.</p>
+      <p align="center"><b>Tech:</b> JavaScript, WebAuthn API, Node.js, Express, MongoDB</p>
     </td>
   </tr>
 </table>
