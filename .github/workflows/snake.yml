@@ -7,31 +7,29 @@ on:
 
 jobs:
   build:
-    name: Snake Animation Job
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Proper permission for pushing to repo
     
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Snake Animation (Light)
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif-light
         with:
           github_user_name: DIX2580
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
       
-      - name: Generate Snake Animation (Dark Mode)
-        uses: Platane/snk@master
-        if: always()
+      - name: Generate Snake Animation (Dark)
+        uses: Platane/snk/svg-only@v3
         id: snake-gif-dark
         with:
           github_user_name: DIX2580
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
