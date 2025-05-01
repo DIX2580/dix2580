@@ -26,7 +26,8 @@
 
 <div align="center">
   <h2>🚀 Transforming Ideas Into Reality</h2>
-  <img src="https://github.com/DIX2580/DIX2580/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/DIX2580/DIX2580/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/DIX2580/DIX2580/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark" />
 </div>
 
 ## 🛠️ My Expertise
