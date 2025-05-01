@@ -335,9 +335,7 @@ Database      ███████████░░░░░░░░░░░
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIX2580&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DIX2580&style=flat-square&color=00D1E8" alt="Profile Views" />
@@ -355,7 +353,6 @@ Database      ███████████░░░░░░░░░░░
 </div>
 
 <!-- FOOTER WAVE -->
-<img src="https://raw.githubusercontent.com/DIX2580/portfolio-assets/main/wave.svg" width="100%" />
 
 
 
