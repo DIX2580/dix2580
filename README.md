@@ -74,29 +74,54 @@ DevOps        ████████████░░░░░░░░░░
 </div>
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🎓 Career Path Guideline System  
+**🔗 Live Demo:** [career-path-guidelines.onrender.com](https://career-path-guidelines.onrender.com)  
+**📂 GitHub:** [github.com/DIX2580/careerpath-guideline-system](https://github.com/DIX2580/careerpath-guideline-system)  
 
-  <a href="https://career-path-guidelines.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=careerpath-guideline-system&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="Career Path Guideline System" />
-  </a>
+A full-stack web application that guides students by suggesting optimal career paths based on their current education level and career goals.  
+🔹 Personalized pathways  
+🔹 Animated dashboards  
+🔹 Curated course suggestions  
+🔹 Live support  
+🔹 Secure authentication & progress tracking  
 
-  <a href="https://kunal-podcast-v2.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=kunal-podcast-episode&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Podcast Website Project" />
-  </a>
+**🛠 Tech Stack:**  
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Framer Motion` · `Redux Toolkit` · `Redux Persist` · `EmailJS` · `Tawk.to` · `Three.js` · `Lottie React` · `React Router` · `JWT` · `Bcrypt.js`
 
-</div>
+---
 
-<div align="center">
+### 🎙️ Kunal Podcast Website  
+**🔗 Live Demo:** [kunal-podcast-v2.netlify.app](https://kunal-podcast-v2.netlify.app)  
+**📂 GitHub:** [github.com/DIX2580/kunal-podcast-episode](https://github.com/DIX2580/kunal-podcast-episode)  
 
-  <a href="https://github.com/DIX2580/webauthn-s1-release">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=webauthn-s1-release&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="WebAuthn Authentication System" />
-  </a>
+A sleek and modern podcast platform built for Mishka Productions where Kunal posts his latest episodes. Designed with immersive animations and carousel integrations.
 
-  <a href="http://zenexinfo.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=zen-eoo&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Zenex GIS Website" />
-  </a>
+**🛠 Tech Stack:**  
+`Next.js` · `Tailwind CSS` · `Framer Motion` · `Heroicons` · `React Owl Carousel` · `React Slick` · `Swiper` · `React Type Animation`
 
-</div>
+---
+
+### 🛰️ Zenex GIS Website  
+**🔗 Live Demo:** [zenexinfo.com](http://zenexinfo.com)  
+**📂 GitHub:** [github.com/DIX2580/zen-eoo](https://github.com/DIX2580/zen-eoo)  
+
+Developed a comprehensive corporate website for Zenex, a leading GIS company. Integrated advanced GIS tools with responsive UI and modern frontend practices.
+
+**🛠 Tech Stack:**  
+`Next.js` · `React` · `Tailwind CSS` · `Framer Motion` · `Three.js` · `Axios` · `Swiper` · `React Slick` · `React Hook Form` · `React Router` · `Sharp`
+
+---
+
+### 🔐 WebAuthn Authentication System  
+**📂 GitHub:** [github.com/DIX2580/webauthn-s1-release](https://github.com/DIX2580/webauthn-s1-release)  
+
+An advanced biometric authentication system using fingerprint login via WebAuthn. Built with secure backend handling and modern cryptographic standards.
+
+**🛠 Tech Stack:**  
+`Node.js` · `Express.js` · `MongoDB` · `WebAuthn` · `@simplewebauthn/server` · `JWT` · `Bcrypt.js`
+
+---
+
 
 ## 🔍 About My Work
 
