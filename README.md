@@ -72,25 +72,30 @@ DevOps        ████████████░░░░░░░░░░
 </p>
 
 </div>
-
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://careerpath-goals.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=career-path-guide&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="Career Path Project" />
+
+  <a href="https://career-path-guidelines.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=careerpath-guideline-system&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="Career Path Guideline System" />
   </a>
-  <a href="https://kunal-podcast-v2.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=kunal-podcast&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Podcast Project" />
+
+  <a href="https://kunal-podcast-v2.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=kunal-podcast-episode&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Podcast Website Project" />
   </a>
+
 </div>
 
 <div align="center">
+
   <a href="https://github.com/DIX2580/webauthn-s1-release">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=webauthn-s1-release&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="WebAuthn Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=webauthn-s1-release&theme=tokyonight&border_color=00D1E8&border_radius=10&bg_color=0D1117" alt="WebAuthn Authentication System" />
   </a>
-  <a href="https://github.com/DIX2580/zenex-gis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=zenex-gis&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Zenex GIS Project" />
+
+  <a href="http://zenexinfo.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DIX2580&repo=zen-eoo&theme=tokyonight&border_color=F7A643&border_radius=10&bg_color=0D1117" alt="Zenex GIS Website" />
   </a>
+
 </div>
 
 ## 🔍 About My Work
