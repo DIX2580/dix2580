@@ -21,6 +21,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DIX2580&style=for-the-badge&color=00D1E8" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DIX2580&theme=discord&no-frame=true&column=7" alt="GitHub Profile Trophy" />
+</div>
+
 
 ---
 
@@ -341,16 +345,9 @@ Database      ███████████░░░░░░░░░░░
   <img src="https://komarev.com/ghpvc/?username=DIX2580&style=flat-square&color=00D1E8" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+
 
 <!-- GitHub Profile Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIX2580&theme=discord&no-frame=true&column=7" alt="GitHub Profile Trophy" />
-</div>
 
 <!-- FOOTER WAVE -->
 
