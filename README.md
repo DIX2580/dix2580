@@ -26,7 +26,12 @@
 
 <div align="center">
   <h2>🚀 Transforming Ideas Into Reality</h2>
-  <img src="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <!-- Fixed Snake Animation - Using a direct link to the GitHub Actions generated file -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/DIX2580/DIX2580/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <h1 align="center">🛠️ My Expertise</h1>
@@ -166,7 +171,7 @@ An advanced biometric authentication system using fingerprint login via WebAuthn
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
-      <p align="center">Dynamic platform for Mishka Productions where Kunnal posts his latest podcasts. Built with smooth animations for an immersive user experience.</p>
+      <p align="center">Dynamic platform for Mishka Productions where Kunal posts his latest podcasts. Built with smooth animations for an immersive user experience.</p>
       <p align="center"><b>Tech:</b> Next.js, Tailwind CSS, Framer Motion, Heroicons, React Owl Carousel, Swiper, React Type Animation</p>
     </td>
     <td width="50%">
@@ -230,41 +235,3 @@ An advanced biometric authentication system using fingerprint login via WebAuthn
     <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
 </div>
-
-<!--
-**Note for Profile Setup:**
-1. Enable GitHub Actions in your repository settings
-2. Create a `.github/workflows/snake.yml` file for the snake animation
-3. Setup metrics action for additional GitHub stats
-4. Pin your best repositories to showcase them on your profile
--->
-
-<!-- GitHub Action for Snake Animation
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: DIX2580
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
--->
