@@ -153,7 +153,7 @@ Database      ███████████░░░░░░░░░░░
       <img src="https://img.icons8.com/fluency/48/chat.png" width="20" height="20" />
       <b>Live Support</b>
     </td>
-    <td>Real-time assistance via integrated chat system</td>
+    <td>Real-time assistance via integrated chat system.</td>
   </tr>
   <tr>
     <td>
