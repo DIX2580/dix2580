@@ -392,7 +392,7 @@ Database      ███████████░░░░░░░░░░░
 ---
 
 <div align="center">
-  <h3>🔄 Latest Activity</h3>
+  <h3>🔄 Latest Activity </h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DIX2580&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=00D1E8&point=F7A643&color=FFFFFF" alt="Activity Graph" />
 </div>
 
