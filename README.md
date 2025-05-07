@@ -309,7 +309,7 @@ Database      ███████████░░░░░░░░░░░
   <tr>
     <td>
       <img src="https://img.icons8.com/fluency/48/rocket.png" width="20" height="20" />
-      <b>Performance Optimized</b>
+      <b>Performance Optimized </b>
     </td>
     <td>Fast loading with next-gen image formats</td>
   </tr>
