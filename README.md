@@ -398,7 +398,7 @@ Database      ███████████░░░░░░░░░░░
 
 <div align="center">
   <h3>📫 Contact For Opportunities</h3>
-  <p>Open for freelance projects, full-time roles, and collaborations</p>
+  <p>Open for freelance projects, full-time roles , and collaborations</p>
   <a href="mailto:dibyanjayapanda2580@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
